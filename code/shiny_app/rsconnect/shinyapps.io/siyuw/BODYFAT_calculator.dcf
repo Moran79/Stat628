@@ -5,8 +5,8 @@ account: siyuw
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 690082
-bundleId: 1856575
+bundleId: 1856783
 url: https://siyuw.shinyapps.io/BODYFAT_calculator/
-when: 1549333616.04122
+when: 1549347045.58523
 asMultiple: FALSE
 asStatic: FALSE
