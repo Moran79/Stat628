@@ -8,7 +8,7 @@ shinyUI(pageWithSidebar(
   ),
   mainPanel(
     submitButton(text="get your bodyfat!"),
-    h3("BODYFAT"),
+    h3("BODYFAT(%)"),
     verbatimTextOutput("B"),
     h5("Contact email: thuang223@wisc.edu")
   )
