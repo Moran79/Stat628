@@ -5,7 +5,7 @@ Module 1-3 of Stat628 in University of Wisconsin-Madison
 ### Useful Link
 
 - [BODYFAT Calculator](https://siyuw.shinyapps.io/BODYFAT_calculator/)
-- [Our Analysis]()
+- [Our Analysis](https://moran79.github.io/Stat628/)
 
 This project is about doing inference about the dataset [BODYFAT](http://staff.pubhealth.ku.dk/~tag/Teaching/share/data/Bodyfat.html#org16c7c47). We use linear model here, and end up with a simple model along with with a shiny app.
 
@@ -41,4 +41,3 @@ Our team member:
 - **628_Module1.ipynb**: An executive summay
 
 - **index.html**: An executive summay(HTML version)
-
